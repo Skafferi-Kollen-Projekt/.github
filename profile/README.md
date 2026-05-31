@@ -118,10 +118,12 @@ Whether you are:
 
 You are encouraged to explore, test, and learn from it.
 
+📚 Each repository also contains its own README.md file with detailed explanations, setup instructions, and technical insights for both frontend and backend.
 
-##Deploy
-It will soon be deployed
 ---
+
+## Deploy
+It will soon be deployed
 
 
 ---
